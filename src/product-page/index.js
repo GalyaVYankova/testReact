@@ -17,7 +17,7 @@ const ProductPage = (props) => {
         Product Page - {product.title}
         <div>
           <Link to="/">
-            Go back to homepage
+            Go back to homepage - New Go back to home
           </Link>
         </div>
       </div>
